@@ -7,17 +7,17 @@ This app will provide a way for people to exchange books, find out about new boo
 - Functionality / features
 
   1. MVP features are:
-    - General users can view the list of the books available or pending for exchange.
-    - General users can view the details of each book.
-    - General users can search books by category (e.g. author, title, language, genre, etc.) or by location.
-    - General users can make an appointment for book exchange with their preferred time and the details of their own book to be exchanged.
-    - The books' status can be updated automatically to pending once one appointment is made on it.
+      - General users can view the list of the books available or pending for exchange.
+      - General users can view the details of each book.
+      - General users can search books by category (e.g. author, title, language, genre, etc.) or by location.
+      - General users can make an appointment for book exchange with their preferred time and the details of their own book to be exchanged.
+      - The books' status can be updated automatically to pending once one appointment is made on it.
 
   2. Advanced features are:
-    - Admin can update the status of the exchanged book to available again or confirm the sucess of the exchange.
-    - General users can view/edit their appointment.
-    - General users can view their own profile.
-    - General users can view their book list.
+       - Admin can update the status of the exchanged book to available again or confirm the sucess of the exchange.
+       - General users can view/edit their appointment.
+       - General users can view their own profile.
+       - General users can view their book list.
 
 - Target audience
 
