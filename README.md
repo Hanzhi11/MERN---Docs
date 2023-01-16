@@ -19,7 +19,7 @@ This app will provide a way for people to exchange books, find out about new boo
     - General users can view their own profile.
     - General users can view their book list.
 
-  - Target audience
+- Target audience
 
 This app is designed and developed for a voluntary community of readers or book lovers or those who would like to share their loved books with others. 
 
