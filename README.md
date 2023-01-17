@@ -58,3 +58,7 @@ Furthermore,
 
 # R5 Wireframes for multiple standard screen sizes, created using industry standard software
 # R6 Screenshots of your Trello board throughout the duration of the project
+
+Day 2 - Wed 18 Jan
+
+![Trello](docs/Trello%20board/Trello%20-%2018%20Jan.png)
