@@ -40,8 +40,6 @@ This app is designed and developed for a voluntary community of readers or book 
 
 # R2 Dataflow Diagram
 
-![Dataflow Diagram](docs/Data%20Flow.png)
-
 ![Dataflow Diagram](docs/Data%20Flow%202.png)
 
 # R3 Application Architecture Diagram
@@ -74,3 +72,7 @@ Day 1 - Tue 17 Jan
 Day 2 - Wed 18 Jan
 
 ![Trello](docs/Trello%20board/Trello%20-%2018%20Jan.png)
+
+Day 3 - Thu 19 Jan
+
+![Trello](docs/Trello%20board/Trello%20-%2018%20Jan%20-%202.png)
