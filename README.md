@@ -42,6 +42,8 @@ This app is designed and developed for a voluntary community of readers or book 
 
 ![Dataflow Diagram](docs/Data%20Flow.png)
 
+![Dataflow Diagram](docs/Data%20Flow%202.png)
+
 # R3 Application Architecture Diagram
 # R4 User Stories
 
