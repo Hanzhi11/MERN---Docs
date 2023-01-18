@@ -39,6 +39,9 @@ This app is designed and developed for a voluntary community of readers or book 
   - Vite
 
 # R2 Dataflow Diagram
+
+![Dataflow Diagram](docs/Data%20Flow.png)
+
 # R3 Application Architecture Diagram
 # R4 User Stories
 
@@ -58,6 +61,8 @@ Furthermore,
 - As admins, they want to edit the status of the pending books, so that the readers can be updated in time about the exchange.
 
 # R5 Wireframes for multiple standard screen sizes, created using industry standard software
+
+![Wireframes](docs/Wireframes.png)
 # R6 Screenshots of your Trello board throughout the duration of the project
 
 Day 1 - Tue 17 Jan
