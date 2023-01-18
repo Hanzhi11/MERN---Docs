@@ -46,6 +46,7 @@ In general,
 
 - As readers (i.e. general users), they want to know if there are any books that they are interested in and available for exchange around their area, so that they can use their own books to exchange.
 - As readers (i.e. general users), they want to know the details of the books available for exchange, so that they can decide to exchange or not.
+- As redears (i.e. general users), they want to select a book from the app to exchange with their own book.
 - As readers (i.e. general users), they want to make an appointment for exchange, so that they can make an arrangement.
 - As readers (i.e. general users), they want to know the status of their preferred book, so that they can tell if an exchange is available for that book.
 
