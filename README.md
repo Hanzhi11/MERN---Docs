@@ -48,6 +48,7 @@ This app is designed and developed for a voluntary community of readers or book 
 
 ![AAD](./docs/AAD-Book%20Exchange.png)
 
+
 1. The web browser that the user interacts with directly. The user can access the server by using different devices such as mobile, tablet and laptop etc,. This is the only section that the user directly uses, because the browser will send the request and receive the response from the Front-end and display it.
 
 2. This part is written in React, CSS, JavaScript and HTML. It is represented as a  Front-end by receiving the HTTP request from the users and it will receive the data and function by sending the JSON request to the back-end. Once it receives the response from the back-end then the front-end can send the render to the browser by a HTTP response.
