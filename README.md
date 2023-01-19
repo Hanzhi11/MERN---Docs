@@ -40,14 +40,11 @@ This app is designed and developed for a voluntary community of readers or book 
 
 # R2 Dataflow Diagram
 
-
-
 ![Dataflow Diagram](docs/Data%20Flow%202.png)
 
 # R3 Application Architecture Diagram
 
 ![AAD](./docs/AAD-Book%20Exchange.png)
-
 
 1. The web browser that the user interacts with directly. The user can access the server by using different devices such as mobile, tablet and laptop etc,. This is the only section that the user directly uses, because the browser will send the request and receive the response from the Front-end and display it.
 
@@ -58,7 +55,7 @@ Moreover, it may get tested and deployed by using the Railway.
 
 3. This part is a Back-End by using Express.js, Node.js and JavaScript. It is for receiving the JSON request from the Front-End and then it will match the URL first and ask the MongoDB database to query the data that the server needs and then will send the response back to the Front-End. Each API may receive different requests from different components based on the functionalities  and features.
 For example, the Books API will receive the request to GET(display) the data of the books details and then it will match and query the database to get the data.
-In the Appointment API which will receive a request to POST(create) and PUT(update) a new book details and POST(create) a new appointment to store to the database.
+In the Appointment API which will receive a request to POST(create) a new book, PUT(update) the selected book details and POST(create) a new appointment to store to the database.
 In the Location API, some of the components will request to GET (display) the data of the location details from the database and get back to the Front-End. 
 Moreover, it may get tested and deployed by using the Railway.
 
@@ -84,6 +81,7 @@ Furthermore,
 # R5 Wireframes for multiple standard screen sizes, created using industry standard software
 
 ![Wireframes](docs/Book%20Exchange%20Wireframe.png)
+
 # R6 Screenshots of your Trello board throughout the duration of the project
 
 Day 1 - Tue 17 Jan
