@@ -76,3 +76,5 @@ Day 2 - Wed 18 Jan
 Day 3 - Thu 19 Jan
 
 ![Trello](docs/Trello%20board/Trello%20-%2018%20Jan%20-%202.png)
+
+Day 4 - Fri 20 Jan
