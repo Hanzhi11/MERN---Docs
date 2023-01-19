@@ -62,7 +62,7 @@ Furthermore,
 
 # R5 Wireframes for multiple standard screen sizes, created using industry standard software
 
-![Wireframes](docs/Wireframes.png)
+![Wireframes](docs/Book%20Exchange%20Wireframe.png)
 # R6 Screenshots of your Trello board throughout the duration of the project
 
 Day 1 - Tue 17 Jan
