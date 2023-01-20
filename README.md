@@ -12,9 +12,9 @@ This app will provide a way for people to exchange books, find out about new boo
       - General users can search books by category (e.g. author, title, language, genre, etc.) or by location.
       - General users can make an appointment for book exchange with their preferred time and the details of their own book to be exchanged.
       - The books' status can be updated automatically to pending once one appointment is made on it.
+      - Admin can update the status of the exchanged book to available again or confirm the sucess of the exchange.
 
   2. Advanced features are:
-       - Admin can update the status of the exchanged book to available again or confirm the sucess of the exchange.
        - General users can view/edit their appointment.
        - General users can view their own profile.
        - General users can view their book list.
@@ -40,11 +40,11 @@ This app is designed and developed for a voluntary community of readers or book 
 
 # R2 Dataflow Diagram
 
-![Dataflow Diagram](docs/Data%20Flow%202.png)
+![Dataflow Diagram](docs/Data%20Flow%203.png)
 
 # R3 Application Architecture Diagram
 
-![AAD](./docs/AAD-Book%20Exchange.png)
+![AAD](docs/AAD-Book%20Exchange.png)
 
 1. The web browser that the user interacts with directly. The user can access the server by using different devices such as mobile, tablet and laptop etc,. This is the only section that the user directly uses, because the browser will send the request and receive the response from the Front-end and display it.
 
@@ -70,13 +70,13 @@ In general,
 - As redears (i.e. general users), they want to select a book from the app to exchange with their own book.
 - As readers (i.e. general users), they want to make an appointment for exchange, so that they can make an arrangement.
 - As readers (i.e. general users), they want to know the status of their preferred book, so that they can tell if an exchange is available for that book.
+- As admins, they want to edit the status of the pending books, so that the readers can be updated in time about the exchange.
 
 Furthermore,
 
 - As readers (i.e. general users), they want to view their appointments, so that they can set up a reminder.
 - As readers (i.e. general users), they want to edit their appointments, so that they can make an amendment if something unexpected happens.
 - As readers (i.e. general users), they want to view the list of books they have exchanged, so that they can have a record.
-- As admins, they want to edit the status of the pending books, so that the readers can be updated in time about the exchange.
 
 # R5 Wireframes for multiple standard screen sizes, created using industry standard software
 
