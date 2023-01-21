@@ -51,17 +51,14 @@ This app is designed and developed for a voluntary community of readers or book 
 1. The web browser that the user interacts with directly. The user can access the server by using different devices such as mobile, tablet and laptop etc,. This is the only section that the user directly uses, because the browser will send the request and receive the response from the Front-end and display it.
 
 2. This part is written in React, CSS, JavaScript and HTML. It is represented as a Front-end by receiving the HTTP request from the users and it will receive the data and function by sending the JSON request to the back-end. Once it receives the response from the back-end then the front-end can send the render to the browser by a HTTP response.
-In the Front-End, there are seven components which are Home, Books, Appointment, Confirmation, Login, Dashboard and Contact, and each component will send the JSON request to the Back-End for getting the data to display to the web browser.
-Besides, Display one book in the Appointment component is linking to Books and Home components by using the 'Display books' function. Also, the Appointment component is linking to Confirmation component since the user submitted the appointment from, and the Dashboard component requires Login component.
-Moreover, it will get tested and deployed by using the Railway.
+In the Front-End, there are seven components which are Home, Books, Appointment, Confirmation, Login, Dashboard and Contact, and each component will send the JSON request to the Back-End for getting the data to display to the web browser. Besides, Display one book in the Appointment component is linking to Books and Home components by using the 'Display books' function.
+Also, the Appointment component is linking to Confirmation component since the user submitted the appointment from, and the Dashboard component requires Login component for the admin to confirm and cancel the appointments. Moreover, it will get tested and deployed by using the Railway.
 
-1. This part is a Back-End by using Express.js, Node.js and JavaScript. It is for receiving the JSON request from the Front-End and then it will match the route, query the MongoDB database and then send the response back to the Front-End. Each API may receive a request from different components based on the functionalities  and features.
-For example, the Books API will receive the request to GET(display) the data of the books details and then it will match and query the database to get the data.
-The Appointment API will receive a request to POST(create) a new appointment, PUT(update) the selected appointment and GET(display) appointments.
-Some of the components will send a request to the Location API to GET (display) the data of the location details from the database.
-Moreover, it will get tested and deployed by using the Railway.
+3. This part is a Back-End by using Express.js, Node.js and JavaScript. It is for receiving the JSON request from the Front-End and then it will match the route, query the MongoDB database and then send the response back to the Front-End. Each API may receive a request from different components based on the functionalities and features.
+For example, the Books API will receive the request to GET(display) the data of the books details and then it will match and query the database to get the data. The Appointment API will receive a request to POST(create) a new appointment, PUT(update) the selected appointment and GET(display) appointments. Also, the Authorization API will receive the request from the Login component ,and then the API will query the data from the Users database and send the user token back.
+Some of the components will send a request to the Location API to GET (display) the data of the location details from the database. Moreover, it will get tested and deployed by using the Railway.
 
-1. This part is a database by using MongoDB Atlas. The database mainly has four collections to store the documents, which are Books, Appointments, Users and Locations.The database will receive the queries from the Back-End by using mongoose and then store, retrieve and edit the documents in the database. Once the database completes document manipulation, it will send the found document back to the Back-End.
+4. This part is a database by using MongoDB Atlas. The database mainly has four collections to store the documents, which are Books, Appointments, Users and Locations. The database will receive the queries from the Back-End by using mongoose and then store, retrieve and edit the documents in the database. Once the database completes document manipulation, it will send the found document back to the Back-End.
 
 # R4 User Stories
 
