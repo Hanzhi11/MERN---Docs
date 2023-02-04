@@ -98,3 +98,23 @@ Day 3 - Thu 19 Jan
 Day 4 - Fri 20 Jan
 
 ![Trello](docs/Trello/Jan20.png)
+
+Day 8 - Tue 24 Jan
+
+![Trello](docs/Trello/Jan24.png)
+
+Day 9 - Wed 25 Jan
+
+![Trello](docs/Trello/Jan25.png)
+
+Day 11 - Fri 27 Jan
+
+![Trello](docs/Trello/Jan27.png)
+
+Day 17 - Thu 2 Feb
+
+![Trello](docs/Trello/Feb2.png)
+
+Day 19 - Thu 4 Feb
+
+![Trello](docs/Trello/Feb4.png)
