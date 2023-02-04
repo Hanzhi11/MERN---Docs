@@ -151,3 +151,23 @@ The details of creating the Confirm Component
 The details of creating the Home Page Component
 ![Trello](docs/HomePage.png)
 
+
+Day 8 - Tue 24 Jan
+
+![Trello](docs/Trello/Jan24.png)
+
+Day 9 - Wed 25 Jan
+
+![Trello](docs/Trello/Jan25.png)
+
+Day 11 - Fri 27 Jan
+
+![Trello](docs/Trello/Jan27.png)
+
+Day 17 - Thu 2 Feb
+
+![Trello](docs/Trello/Feb2.png)
+
+Day 19 - Thu 4 Feb
+
+![Trello](docs/Trello/Feb4.png)
