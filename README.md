@@ -139,9 +139,6 @@ Day 4 - Fri 20 Jan
 # R13 A link and screenshots of your Trello board throughout the duration of the project
 
 ---
-4 Feb, Saturday
-![Trello](docs/4Feb.png)
-
 The details of creating API Routes
 ![Trello](docs/API.png)
 
