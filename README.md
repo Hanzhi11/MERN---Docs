@@ -149,6 +149,62 @@ The details of creating the Home Page Component
 ![Trello](docs/HomePage.png)
 
 
+# T3A2-B - Full Stack App (Part B)
+
+# R2 Use appropriate libraries
+
+## Front-End
+
+- *react*-*datepicker* : Enables use of date picking gui for user to select a date
+- *react-router-dom* : Routing library for React Javascript library.
+- *testing-library* : For Unit and Integration testing of front end components
+- *react* : Javascript library for building user interfaces with components
+- *vite-react* : A build tool that provides a dev server for development and build command for production
+- *msw*: A REST api mocking library for browser and node to intercept requests.
+- *vitest*: Front end component Unit and integration testing library
+
+## Back-End
+
+- "*bcryptjs*": Provides hashing library and algortithm to convert passwords to hash strings
+- "*cors*": Node.js library that provides Express middleware to enable CORS options
+- "*dotenv*": Library to automatically load environment variables from a file to the project
+- "*express*": Node.js web application framework for routing and handling http requests
+- "*jsonwebtoken*": Provides a library to deal with the supply/encoding/decoding of JSON Web Tokens for Authorisation and Authentication purposes
+- "*mongodb*": A driver for interacting with MongoDB databases
+- "*mongoose*": An Object Data Modeleing library for MongoDB. Uses document oriented models and Schemas to interact with MongoDb documents and Collections
+- "*multer*": Node.js middleware for handling multipart/form-data for uploading files such as images.
+- *"multer-gridfs-storage"*: Ftorage engine for Multer Node.js middleware to facilitate file uploads. 
+- *nodemon*: A tool library to develop node applications by automatically restarting application whenever changes are made
+
+
+# T3A2-B - Full Stack App (Part B)
+
+# R2 Use appropriate libraries
+
+## Front-End
+
+- *react*-*datepicker* : Enables use of date picking gui for user to select a date
+- *react-router-dom* : Routing library for React Javascript library.
+- *testing-library* : For Unit and Integration testing of front end components
+- *react* : Javascript library for building user interfaces with components
+- *vite-react* : A build tool that provides a dev server for development and build command for production
+- *msw*: A REST api mocking library for browser and node to intercept requests.
+- *vitest*: Front end component Unit and integration testing library
+
+## Back-End
+
+- "*bcryptjs*": Provides hashing library and algortithm to convert passwords to hash strings
+- "*cors*": Node.js library that provides Express middleware to enable CORS options
+- "*dotenv*": Library to automatically load environment variables from a file to the project
+- "*express*": Node.js web application framework for routing and handling http requests
+- "*jsonwebtoken*": Provides a library to deal with the supply/encoding/decoding of JSON Web Tokens for Authorisation and Authentication purposes
+- "*mongodb*": A driver for interacting with MongoDB databases
+- "*mongoose*": An Object Data Modeleing library for MongoDB. Uses document oriented models and Schemas to interact with MongoDb documents and Collections
+- "*multer*": Node.js middleware for handling multipart/form-data for uploading files such as images.
+- *"multer-gridfs-storage"*: Ftorage engine for Multer Node.js middleware to facilitate file uploads. 
+- *nodemon*: A tool library to develop node applications by automatically restarting application whenever changes are made
+
+
 Day 8 - Tue 24 Jan
 
 ![Trello](docs/Trello/Jan24.png)
