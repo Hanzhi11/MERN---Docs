@@ -1,40 +1,4 @@
-
-# R3
-
-# R4
-
-# R5
-
-# R6
-
-# R7
-
-# R8
-
-# R9
-
-# R10  A link (URL) to your deployed website
-
-# R11 A link to your GitHub repository (repo)
-
----
-
-    - Whole Main App (Book Exchange App)
-      - <https://github.com/Book-Exchange-APP>
-
-    - Front-End
-      - <https://github.com/Book-Exchange-APP/Client>
-
-    - Back-End
-      - <https://github.com/Book-Exchange-APP/Server>
-
-    - Documentation
-      - <https://github.com/Book-Exchange-APP/Docs>
-
-# R12 he contents of your README.md as submitted for Full Stack App - Part A
-
----
-### R1 Description of your website, including
+# R1 Description of your website, including
 
 - Purpose
 
@@ -76,13 +40,13 @@ This app is designed and developed for a voluntary community of readers or book 
   - Bootstrap
   - Railway
 
-### R2 Dataflow Diagram
+# R2 Dataflow Diagram
 
-![Dataflow Diagram](docs/T3A2-B/docs/DataFlow.png)
+![Dataflow Diagram](docs/DataFlow.png)
 
-### R3 Application Architecture Diagram
+# R3 Application Architecture Diagram
 
-![AAD](docs/T3A2-B/docs/AAD.png)
+![AAD](docs/AAD.png)
 
 1. The web browser that the user interacts with directly. The user can access the server by using different devices such as mobile, tablet and laptop etc,. This is the only section that the user directly uses, because the browser will send the request and receive the response from the Front-end and display it.
 
@@ -96,7 +60,7 @@ Some of the components will send a request to the Location API to GET (display) 
 
 4. This part is a database by using MongoDB Atlas. The database mainly has four collections to store the documents, which are Books, Appointments, Users and Locations. The database will receive the queries from the Back-End by using mongoose and then store, retrieve and edit the documents in the database. Once the database completes document manipulation, it will send the found document back to the Back-End.
 
-### R4 User Stories
+# R4 User Stories
 
 In general, 
 
@@ -113,58 +77,24 @@ Furthermore,
 - As readers (i.e. general users), they want to edit their appointments, so that they can make an amendment if something unexpected happens.
 - As readers (i.e. general users), they want to view the list of books they have exchanged, so that they can have a record.
 
-### R5 Wireframes for multiple standard screen sizes, created using industry standard software
+# R5 Wireframes for multiple standard screen sizes, created using industry standard software
 
-![Wireframes](docs/T3A2-B/docs/Wireframe.png)
+![Wireframes](docs/Wireframe.png)
 
-### R6 Screenshots of your Trello board throughout the duration of the project
+# R6 Screenshots of your Trello board throughout the duration of the project
 
 Day 1 - Tue 17 Jan
 
-![Trello](docs/T3A2-B/docs/Trello/Jan17.png)
+![Trello](docs/Trello/Jan17.png)
 
 Day 2 - Wed 18 Jan
 
-![Trello](docs/T3A2-B/docs/Trello/Jan18.png)
+![Trello](docs/Trello/Jan18.png)
 
 Day 3 - Thu 19 Jan
 
-![Trello](docs/T3A2-B/docs/Trello/Jan19.png)
+![Trello](docs/Trello/Jan19.png)
 
 Day 4 - Fri 20 Jan
 
-![Trello](docs/T3A2-B/docs/Trello/Jan20.png)
-
-
-# R13 A link and screenshots of your Trello board throughout the duration of the project
-
----
-The details of creating API Routes
-![Trello](docs/API.png)
-
-The details of creating the Confirm Component
-![Trello](docs/Confirm.png)
-
-The details of creating the Home Page Component
-![Trello](docs/HomePage.png)
-
-
-Day 8 - Tue 24 Jan
-
-![Trello](docs/Trello/Jan24.png)
-
-Day 9 - Wed 25 Jan
-
-![Trello](docs/Trello/Jan25.png)
-
-Day 11 - Fri 27 Jan
-
-![Trello](docs/Trello/Jan27.png)
-
-Day 17 - Thu 2 Feb
-
-![Trello](docs/Trello/Feb2.png)
-
-Day 19 - Thu 4 Feb
-
-![Trello](docs/Trello/Feb4.png)
+![Trello](docs/Trello/Jan20.png)
