@@ -22,22 +22,10 @@
 - "*multer*": Node.js middleware for handling multipart/form-data for uploading files such as images.
 - *"multer-gridfs-storage"*: Ftorage engine for Multer Node.js middleware to facilitate file uploads. 
 - *nodemon*: A tool library to develop node applications by automatically restarting application whenever changes are made
-  
-# R3
-
-# R4
-
-# R5
-
-# R6
-
-# R7
-
-# R8
-
-# R9
 
 # R10  A link (URL) to your deployed website
+
+https://client-production-4fee.up.railway.app/book/63df59d5f1dad03e3999daec
 
 # R11 A link to your GitHub repository (repo)
 
@@ -54,6 +42,8 @@
 
     - Documentation
       - <https://github.com/Book-Exchange-APP/Docs>
+
+
 
 # R12 The contents of your README.md as submitted for Full Stack App - Part A
 
