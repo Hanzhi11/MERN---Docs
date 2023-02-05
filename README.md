@@ -140,13 +140,13 @@ Day 4 - Fri 20 Jan
 
 ---
 The details of creating API Routes
-![Trello](docs/API.png)
+![Trello](docs/Trello/API.png)
 
 The details of creating the Confirm Component
-![Trello](docs/Confirm.png)
+![Trello](docs/Trello/Confirm.png)
 
 The details of creating the Home Page Component
-![Trello](docs/HomePage.png)
+![Trello](docs/Trello/HomePage.png)
 
 
 Day 8 - Tue 24 Jan
