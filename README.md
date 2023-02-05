@@ -33,14 +33,6 @@ https://client-production-4fee.up.railway.app/
 
 https://server-production-f312.up.railway.app/
 
-## Client
-
-https://client-production-4fee.up.railway.app/
-
-## Server
-
-https://server-production-f312.up.railway.app/
-
   - For the admin login:
     - ACC: admin@bookstore.com
     - Password: admin
