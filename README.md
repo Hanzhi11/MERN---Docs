@@ -27,7 +27,7 @@
 
 ## Client
 
-https://client-production-4fee.up.railway.app/book/63df59d5f1dad03e3999daec
+https://client-production-4fee.up.railway.app/
 
 ## Server
 
