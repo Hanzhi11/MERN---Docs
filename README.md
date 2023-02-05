@@ -39,6 +39,10 @@
 
 # R10  A link (URL) to your deployed website
 
+  - For the admin login:
+    - ACC: admin@bookstore.com
+    - Password: admin
+
 # R11 A link to your GitHub repository (repo)
 
 ---
@@ -163,15 +167,23 @@ Day 4 - Fri 20 Jan
 # R13 A link and screenshots of your Trello board throughout the duration of the project
 
 ---
+After submitting the part A assignment, we started doing the coding for the app by following on the Trello board. We created many lists for each part, even though the front-end and back-end parts in the Trello. The reason is we can create a checklist and add as many items as we need to define what functions or features we need in each parts. For example, as Ryan is good at back-end development such as the base of API Routes and database so he is in charge of that. And then, Hanzhi and Raymond are mainly in charge of the front-end development such as css styling and each components. For example, nav bar, footer, search function and their stylings.
+Moreover, we have the meeting every weekday and discuss how to finish the process of that day by using Discord. Once we finished the items or goals in each list , we ticked those items to notice that parts are completed. In the Trello board, we can move each lists from different columns, which is very convenient for define which lists are developing and which one are completed. In addition, we can set the due date for the list to define which lists should be finish first and set who want to in charge some specific lists, for example, Ryan feels confidence to handle the back-end part that's why he puts down his name in some back-end lists.
+In this whole group project, we will keep in touch and help each others when we have any questions or problems that cannot be resolved such as errors, bugs etc. 
+
+### This is the details of the Trello board of the project below:
+
 The details of creating API Routes
+
 ![Trello](docs/Trello/API.png)
 
 The details of creating the Confirm Component
+
 ![Trello](docs/Trello/Confirm.png)
 
 The details of creating the Home Page Component
-![Trello](docs/Trello/HomePage.png)
 
+![Trello](docs/Trello/HomePage.png)
 
 Day 8 - Tue 24 Jan
 
