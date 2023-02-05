@@ -33,14 +33,6 @@ https://client-production-4fee.up.railway.app/
 
 https://server-production-f312.up.railway.app/
 
-## Client
-
-https://client-production-4fee.up.railway.app/
-
-## Server
-
-https://server-production-f312.up.railway.app/
-
   - For the admin login:
     - ACC: admin@bookstore.com
     - Password: admin
@@ -206,7 +198,6 @@ Day 17 - Thu 2 Feb
 Day 19 - Sat 4 Feb
 
 ![Trello](docs/Trello/Feb4.png)
-
 
 Day 20 - Sun 5 Feb
 
