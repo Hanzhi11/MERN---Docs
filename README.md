@@ -62,7 +62,6 @@ https://server-production-f312.up.railway.app/
   <https://github.com/Book-Exchange-APP/Docs>
 
 
-
 # R12 The contents of your README.md as submitted for Full Stack App - Part A
 
 ---
