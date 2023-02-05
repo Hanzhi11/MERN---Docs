@@ -22,22 +22,24 @@
 - "*multer*": Node.js middleware for handling multipart/form-data for uploading files such as images.
 - *"multer-gridfs-storage"*: Ftorage engine for Multer Node.js middleware to facilitate file uploads. 
 - *nodemon*: A tool library to develop node applications by automatically restarting application whenever changes are made
-  
-# R3
-
-# R4
-
-# R5
-
-# R6
-
-# R7
-
-# R8
-
-# R9
 
 # R10  A link (URL) to your deployed website
+
+## Client
+
+https://client-production-4fee.up.railway.app/
+
+## Server
+
+https://server-production-f312.up.railway.app/
+
+## Client
+
+https://client-production-4fee.up.railway.app/
+
+## Server
+
+https://server-production-f312.up.railway.app/
 
   - For the admin login:
     - ACC: admin@bookstore.com
@@ -58,6 +60,8 @@
 
     - Documentation
       - <https://github.com/Book-Exchange-APP/Docs>
+
+
 
 # R12 The contents of your README.md as submitted for Full Stack App - Part A
 
@@ -106,11 +110,11 @@ This app is designed and developed for a voluntary community of readers or book 
 
 ### R2 Dataflow Diagram
 
-![Dataflow Diagram](docs/T3A2-B/docs/DataFlow.png)
+![Dataflow Diagram](docs/T3A2-A/docs/DataFlow.png)
 
 ### R3 Application Architecture Diagram
 
-![AAD](docs/T3A2-B/docs/AAD.png)
+![AAD](docs/T3A2-A/docs/AAD.png)
 
 1. The web browser that the user interacts with directly. The user can access the server by using different devices such as mobile, tablet and laptop etc,. This is the only section that the user directly uses, because the browser will send the request and receive the response from the Front-end and display it.
 
@@ -143,29 +147,30 @@ Furthermore,
 
 ### R5 Wireframes for multiple standard screen sizes, created using industry standard software
 
-![Wireframes](docs/T3A2-B/docs/Wireframe.png)
+![Wireframes](docs/T3A2-A/docs/Wireframe.png)
 
 ### R6 Screenshots of your Trello board throughout the duration of the project
 
 Day 1 - Tue 17 Jan
 
-![Trello](docs/T3A2-B/docs/Trello/Jan17.png)
+![Trello](docs/T3A2-A/docs/Trello/Jan17.png)
 
 Day 2 - Wed 18 Jan
 
-![Trello](docs/T3A2-B/docs/Trello/Jan18.png)
+![Trello](docs/T3A2-A/docs/Trello/Jan18.png)
 
 Day 3 - Thu 19 Jan
 
-![Trello](docs/T3A2-B/docs/Trello/Jan19.png)
+![Trello](docs/T3A2-A/docs/Trello/Jan19.png)
 
 Day 4 - Fri 20 Jan
 
-![Trello](docs/T3A2-B/docs/Trello/Jan20.png)
+![Trello](docs/T3A2-A/docs/Trello/Jan20.png)
 
 
 # R13 A link and screenshots of your Trello board throughout the duration of the project
 
+Link to the trello board: https://trello.com/b/T9dwZzA3/t3a2-book-exchange-app
 ---
 After submitting the part A assignment, we started doing the coding for the app by following on the Trello board. We created many lists for each part, even though the front-end and back-end parts in the Trello. The reason is we can create a checklist and add as many items as we need to define what functions or features we need in each parts. For example, as Ryan is good at back-end development such as the base of API Routes and database so he is in charge of that. And then, Hanzhi and Raymond are mainly in charge of the front-end development such as css styling and each components. For example, nav bar, footer, search function and their stylings.
 Moreover, we have the meeting every weekday and discuss how to finish the process of that day by using Discord. Once we finished the items or goals in each list , we ticked those items to notice that parts are completed. In the Trello board, we can move each lists from different columns, which is very convenient for define which lists are developing and which one are completed. In addition, we can set the due date for the list to define which lists should be finish first and set who want to in charge some specific lists, for example, Ryan feels confidence to handle the back-end part that's why he puts down his name in some back-end lists.
@@ -174,11 +179,9 @@ In this whole group project, we will keep in touch and help each others when we 
 ### This is the details of the Trello board of the project below:
 
 The details of creating API Routes
-
 ![Trello](docs/Trello/API.png)
 
 The details of creating the Confirm Component
-
 ![Trello](docs/Trello/Confirm.png)
 
 The details of creating the Home Page Component
@@ -201,6 +204,11 @@ Day 17 - Thu 2 Feb
 
 ![Trello](docs/Trello/Feb2.png)
 
-Day 19 - Thu 4 Feb
+Day 19 - Sat 4 Feb
 
 ![Trello](docs/Trello/Feb4.png)
+
+
+Day 20 - Sun 5 Feb
+
+![Trello](docs/Trello/Feb5.png)
