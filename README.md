@@ -98,11 +98,11 @@ This app is designed and developed for a voluntary community of readers or book 
 
 ### R2 Dataflow Diagram
 
-![Dataflow Diagram](docs/T3A2-B/docs/DataFlow.png)
+![Dataflow Diagram](docs/T3A2-A/docs/DataFlow.png)
 
 ### R3 Application Architecture Diagram
 
-![AAD](docs/T3A2-B/docs/AAD.png)
+![AAD](docs/T3A2-A/docs/AAD.png)
 
 1. The web browser that the user interacts with directly. The user can access the server by using different devices such as mobile, tablet and laptop etc,. This is the only section that the user directly uses, because the browser will send the request and receive the response from the Front-end and display it.
 
@@ -135,38 +135,39 @@ Furthermore,
 
 ### R5 Wireframes for multiple standard screen sizes, created using industry standard software
 
-![Wireframes](docs/T3A2-B/docs/Wireframe.png)
+![Wireframes](docs/T3A2-A/docs/Wireframe.png)
 
 ### R6 Screenshots of your Trello board throughout the duration of the project
 
 Day 1 - Tue 17 Jan
 
-![Trello](docs/T3A2-B/docs/Trello/Jan17.png)
+![Trello](docs/T3A2-A/docs/Trello/Jan17.png)
 
 Day 2 - Wed 18 Jan
 
-![Trello](docs/T3A2-B/docs/Trello/Jan18.png)
+![Trello](docs/T3A2-A/docs/Trello/Jan18.png)
 
 Day 3 - Thu 19 Jan
 
-![Trello](docs/T3A2-B/docs/Trello/Jan19.png)
+![Trello](docs/T3A2-A/docs/Trello/Jan19.png)
 
 Day 4 - Fri 20 Jan
 
-![Trello](docs/T3A2-B/docs/Trello/Jan20.png)
+![Trello](docs/T3A2-A/docs/Trello/Jan20.png)
 
 
 # R13 A link and screenshots of your Trello board throughout the duration of the project
 
+Link to the trello board: https://trello.com/b/T9dwZzA3/t3a2-book-exchange-app
 ---
 The details of creating API Routes
-![Trello](docs/API.png)
+![Trello](docs/Trello/API.png)
 
 The details of creating the Confirm Component
-![Trello](docs/Confirm.png)
+![Trello](docs/Trello/Confirm.png)
 
 The details of creating the Home Page Component
-![Trello](docs/HomePage.png)
+![Trello](docs/Trello/HomePage.png)
 
 
 Day 8 - Tue 24 Jan
@@ -185,6 +186,10 @@ Day 17 - Thu 2 Feb
 
 ![Trello](docs/Trello/Feb2.png)
 
-Day 19 - Thu 4 Feb
+Day 19 - Sat 4 Feb
 
 ![Trello](docs/Trello/Feb4.png)
+
+Day 20 - Sun 5 Feb
+
+![Trello](docs/Trello/Feb5.png)
