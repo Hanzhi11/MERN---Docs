@@ -158,15 +158,16 @@ Day 4 - Fri 20 Jan
 
 # R13 A link and screenshots of your Trello board throughout the duration of the project
 
+Link to the trello board: https://trello.com/b/T9dwZzA3/t3a2-book-exchange-app
 ---
 The details of creating API Routes
-![Trello](docs/API.png)
+![Trello](docs/Trello/API.png)
 
 The details of creating the Confirm Component
-![Trello](docs/Confirm.png)
+![Trello](docs/Trello/Confirm.png)
 
 The details of creating the Home Page Component
-![Trello](docs/HomePage.png)
+![Trello](docs/Trello/HomePage.png)
 
 
 Day 8 - Tue 24 Jan
@@ -185,6 +186,10 @@ Day 17 - Thu 2 Feb
 
 ![Trello](docs/Trello/Feb2.png)
 
-Day 19 - Thu 4 Feb
+Day 19 - Sat 4 Feb
 
 ![Trello](docs/Trello/Feb4.png)
+
+Day 20 - Sun 5 Feb
+
+![Trello](docs/Trello/Feb5.png)
