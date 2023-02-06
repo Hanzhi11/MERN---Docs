@@ -1,9 +1,9 @@
 # Links to the GitHub repository of source code
 
-## Front-End
+- Front-End
   <https://github.com/Book-Exchange-APP/Client>
 
-## Back-End
+- Back-End
   <https://github.com/Book-Exchange-APP/Server>
   
 # Contributors
@@ -118,13 +118,13 @@ Furthermore,
 
 # Links to the deployed website
 
-## Client
+- Client
 
 https://client-production-4fee.up.railway.app/
 
-  - Admin login for trial purposes only:
-    - Email: admin@bookstore.com
-    - Password: admin
+    - Admin login for trial purposes only:
+      - Email: admin@bookstore.com
+      - Password: admin
 
 ![home](docs/Home.png)
 
@@ -140,7 +140,7 @@ https://client-production-4fee.up.railway.app/
 
 ![dashboard](docs/Dashboard.png)
 
-## Server
+- Server
 
 https://server-production-f312.up.railway.app/
 
