@@ -1,63 +1,32 @@
-# R2 Use appropriate libraries
-
-## Front-End
-
-- *react-datepicker* : Enables use of date picking gui for user to select a date
-- *react-router-dom* : Routing library for React Javascript library.
-- *testing-library* : For Unit and Integration testing of front end components
-- *react* : Javascript library for building user interfaces with components
-- *vite-react* : A build tool that provides a dev server for development and build command for production
-- *msw*: A REST api mocking library for browser and node to intercept requests.
-- *vitest*: Front end component Unit and integration testing library
-
-## Back-End
-
-- "*bcryptjs*": Provides hashing library and algortithm to convert passwords to hash strings
-- "*cors*": Node.js library that provides Express middleware to enable CORS options
-- "*dotenv*": Library to automatically load environment variables from a file to the project
-- "*express*": Node.js web application framework for routing and handling http requests
-- "*jsonwebtoken*": Provides a library to deal with the supply/encoding/decoding of JSON Web Tokens for Authorisation and Authentication purposes
-- "*mongodb*": A driver for interacting with MongoDB databases
-- "*mongoose*": An Object Data Modeleing library for MongoDB. Uses document oriented models and Schemas to interact with MongoDb documents and Collections
-- "*multer*": Node.js middleware for handling multipart/form-data for uploading files such as images.
-- *"multer-gridfs-storage"*: Ftorage engine for Multer Node.js middleware to facilitate file uploads. 
-- *nodemon*: A tool library to develop node applications by automatically restarting application whenever changes are made
-
-# R10  A link (URL) to your deployed website
+# Links to the deployed website
 
 ## Client
 
 https://client-production-4fee.up.railway.app/
 
+  - For the admin login on test purpose only:
+    - ACC: admin@bookstore.com
+    - Password: admin
+
 ## Server
 
 https://server-production-f312.up.railway.app/
 
-  - For the admin login:
-    - ACC: admin@bookstore.com
-    - Password: admin
+# Links to the GitHub repository
 
-# R11 A link to your GitHub repository (repo)
-
----
-
-### Whole Main App (Book Exchange App)
-  <https://github.com/Book-Exchange-APP>
-
-#### Front-End
+## Front-End
   <https://github.com/Book-Exchange-APP/Client>
 
-#### Back-End
+## Back-End
   <https://github.com/Book-Exchange-APP/Server>
+  
+# Contributors
 
-#### Documentation
-  <https://github.com/Book-Exchange-APP/Docs>
+- Hanzhi Zhang
+- Ryan Bussey
+- Wing Man Siu
 
-
-# R12 The contents of your README.md as submitted for Full Stack App - Part A
-
----
-### R1 Description of your website, including
+# Description of the website
 
 - Purpose
 
@@ -91,19 +60,40 @@ This app is designed and developed for a voluntary community of readers or book 
   - Node
   - HTML
   - CSS
-  - Jest
-  - Vitest
-  - Supertest
-  - Cors
   - Vite
   - Bootstrap
   - Railway
+  
+ - Used libraries
 
-### R2 Dataflow Diagram
+    - Front-End
+
+      - *react-datepicker* : Enables use of date picking gui for user to select a date
+      - *react-router-dom* : Routing library for React Javascript library.
+      - *testing-library* : For Unit and Integration testing of front end components
+      - *react* : Javascript library for building user interfaces with components
+      - *vite-react* : A build tool that provides a dev server for development and build command for production
+      - *msw*: A REST api mocking library for browser and node to intercept requests.
+      - *vitest*: Front end component Unit and integration testing library
+
+    - Back-End
+
+      - "*bcryptjs*": Provides hashing library and algortithm to convert passwords to hash strings
+      - "*cors*": Node.js library that provides Express middleware to enable CORS options
+      - "*dotenv*": Library to automatically load environment variables from a file to the project
+      - "*express*": Node.js web application framework for routing and handling http requests
+      - "*jsonwebtoken*": Provides a library to deal with the supply/encoding/decoding of JSON Web Tokens for Authorisation and Authentication purposes
+      - "*mongodb*": A driver for interacting with MongoDB databases
+      - "*mongoose*": An Object Data Modeleing library for MongoDB. Uses document oriented models and Schemas to interact with MongoDb documents and Collections
+      - "*multer*": Node.js middleware for handling multipart/form-data for uploading files such as images.
+      - *"multer-gridfs-storage"*: Ftorage engine for Multer Node.js middleware to facilitate file uploads. 
+      - *nodemon*: A tool library to develop node applications by automatically restarting application whenever changes are made
+
+# Dataflow Diagram
 
 ![Dataflow Diagram](docs/T3A2-A/docs/DataFlow.png)
 
-### R3 Application Architecture Diagram
+# Application Architecture Diagram
 
 ![AAD](docs/T3A2-A/docs/AAD.png)
 
@@ -119,7 +109,7 @@ Some of the components will send a request to the Location API to GET (display) 
 
 4. This part is a database by using MongoDB Atlas. The database mainly has four collections to store the documents, which are Books, Appointments, Users and Locations. The database will receive the queries from the Back-End by using mongoose and then store, retrieve and edit the documents in the database. Once the database completes document manipulation, it will send the found document back to the Back-End.
 
-### R4 User Stories
+# User Stories
 
 In general, 
 
@@ -136,11 +126,13 @@ Furthermore,
 - As readers (i.e. general users), they want to edit their appointments, so that they can make an amendment if something unexpected happens.
 - As readers (i.e. general users), they want to view the list of books they have exchanged, so that they can have a record.
 
-### R5 Wireframes for multiple standard screen sizes, created using industry standard software
+# Wireframes for multiple standard screen sizes
 
 ![Wireframes](docs/T3A2-A/docs/Wireframe.png)
 
-### R6 Screenshots of your Trello board throughout the duration of the project
+# Screenshots of the Trello board throughout the duration of the project
+
+Link to the trello board: https://trello.com/b/T9dwZzA3/t3a2-book-exchange-app
 
 Day 1 - Tue 17 Jan
 
@@ -157,27 +149,6 @@ Day 3 - Thu 19 Jan
 Day 4 - Fri 20 Jan
 
 ![Trello](docs/T3A2-A/docs/Trello/Jan20.png)
-
-
-# R13 A link and screenshots of your Trello board throughout the duration of the project
-
-Link to the trello board: https://trello.com/b/T9dwZzA3/t3a2-book-exchange-app
----
-After submitting the part A assignment, we started doing the coding for the app by following on the Trello board. We created many lists for each part, even though the front-end and back-end parts in the Trello. The reason is we can create a checklist and add as many items as we need to define what functions or features we need in each parts. For example, as Ryan is good at back-end development such as the base of API Routes and database so he is in charge of that. And then, Hanzhi and Raymond are mainly in charge of the front-end development such as css styling and each components. For example, nav bar, footer, search function and their stylings.
-Moreover, we have the meeting every weekday and discuss how to finish the process of that day by using Discord. Once we finished the items or goals in each list , we ticked those items to notice that parts are completed. In the Trello board, we can move each lists from different columns, which is very convenient for define which lists are developing and which one are completed. In addition, we can set the due date for the list to define which lists should be finish first and set who want to in charge some specific lists, for example, Ryan feels confidence to handle the back-end part that's why he puts down his name in some back-end lists.
-In this whole group project, we will keep in touch and help each others when we have any questions or problems that cannot be resolved such as errors, bugs etc. 
-
-### This is the details of the Trello board of the project below:
-
-The details of creating API Routes
-![Trello](docs/Trello/API.png)
-
-The details of creating the Confirm Component
-![Trello](docs/Trello/Confirm.png)
-
-The details of creating the Home Page Component
-
-![Trello](docs/Trello/HomePage.png)
 
 Day 8 - Tue 24 Jan
 
@@ -202,3 +173,13 @@ Day 19 - Sat 4 Feb
 Day 20 - Sun 5 Feb
 
 ![Trello](docs/Trello/Feb5.png)
+
+The details of creating API Routes
+![Trello](docs/Trello/API.png)
+
+The details of creating the Confirm Component
+![Trello](docs/Trello/Confirm.png)
+
+The details of creating the Home Page Component
+
+![Trello](docs/Trello/HomePage.png)
