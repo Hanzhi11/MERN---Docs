@@ -1,18 +1,4 @@
-# Links to the deployed website
-
-## Client
-
-https://client-production-4fee.up.railway.app/
-
-  - For the admin login on test purpose only:
-    - ACC: admin@bookstore.com
-    - Password: admin
-
-## Server
-
-https://server-production-f312.up.railway.app/
-
-# Links to the GitHub repository
+# Links to the GitHub repository of source code
 
 ## Front-End
   <https://github.com/Book-Exchange-APP/Client>
@@ -129,6 +115,34 @@ Furthermore,
 # Wireframes for multiple standard screen sizes
 
 ![Wireframes](docs/T3A2-A/docs/Wireframe.png)
+
+# Links to the deployed website
+
+## Client
+
+https://client-production-4fee.up.railway.app/
+
+  - Admin login for trial purposes only:
+    - Email: admin@bookstore.com
+    - Password: admin
+
+![home](docs/Home.png)
+
+![books](docs/Books.png)
+
+![search](docs/Search.png)
+
+![showbook](docs/ShowBook.png)
+
+![contacts](docs/Contacts.png)
+
+![login](docs/Login.png)
+
+![dashboard](docs/Dashboard.png)
+
+## Server
+
+https://server-production-f312.up.railway.app/
 
 # Screenshots of the Trello board throughout the duration of the project
 
